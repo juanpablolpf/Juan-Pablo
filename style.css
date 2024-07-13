@@ -99,7 +99,7 @@ body * {
 
 /*links */
 ul {
-  list-style: nome;
+  list-style: none;
 
   display: flex;
   flex-direction: column;
